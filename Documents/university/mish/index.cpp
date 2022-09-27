@@ -11,8 +11,8 @@ int main() {
   int coordinatesAmout = 3; 
 
   // если не ебаться с двумерными массивами
-  int xCoordinates[] = {1, 2, 3};
-  int yCoordinates[] = {2, 2, 3};
+  float xCoordinates[] = {1, 2, 3};
+  float yCoordinates[] = {2, 2, 3};
 
   // просто счетчик для 1 части
   int firstTaskCounter = 0;
